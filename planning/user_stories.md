@@ -14,30 +14,35 @@ University students pursuing Computer Science often want to contribute to open-s
 ## User Personas
 
 Persona 1: Maya Delgado
+
 Background: 19-year-old first-year CS major at a public university in California
 Tech Access: Mostly uses her phone, occasionally a Chromebook
 Motivation: Wants to get involved in CS communities early and build her GitHub profile
 Pain Points: Gets overwhelmed by GitHub UI, doesn’t know which projects are beginner-friendly or relevant to her Intro to CS course
 
 Person 2: Marcus Liu
+
 Background: 21-year-old junior at an East Coast university studying CS and Cognitive Science
 Tech Access: Uses a MacBook and GitHub regularly for coursework
 Motivation: Looking for OSS projects related to AI and social impact to align with his electives and potential senior thesis
 Pain Points: Finds it hard to tell if a repo is still active or worth contributing to; annoyed by vague READMEs
 
 Persona 3: Elio Rune
+
 Background: 22-year-old transfer student in her final year of undergrad
 Tech Access: Comfortable with Git, uses laptop regularly
 Motivation: Wants to boost her resume before applying to jobs, looking for frontend projects tied to Web Dev classes
 Pain Points: Struggles to identify which OSS projects have good documentation or mentors willing to help new contributors.
 
 Persona 4: Aisha Bennett
+
 Background: 20-year-old sophomore at a HBCU in Georgia
 Tech Access: Mainly uses phone for browsing and laptop for coursework
 Motivation: Exploring various tech domains, still unsure about a specialization
 Pain Points: Hasn’t contributed to OSS yet, feels most projects assume too much background knowledge
 
 Persona 5: Dr. Helena Reyes
+
 Role: Faculty / Associate Professor of Computer Science
 Background: 45 years old, teaches upper-division courses like Algorithms and Software Engineering at a public university in Texas
 Tech Access: Primarily uses a desktop and university LMS; uses GitHub when collaborating with grad students
@@ -45,6 +50,7 @@ Motivation: Wants her students to connect theory with practice and start buildin
 Pain Points: Struggles to find vetted OSS examples that align with class topics; overwhelmed by the sheer number of repositories on GitHub. Worries that students waste time on projects that are inactive or unstructured.
 
 Persona 6: Jabril Washington
+
 Role: Graduate Teaching Assistant for Intro to Web Development
 Background: 26-year-old master’s student in CS at a large state university
 Tech Access: Heavy GitHub user, manages private repos for grading and labs
