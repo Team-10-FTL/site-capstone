@@ -21,43 +21,47 @@ University students pursuing Computer Science often want to contribute to open-s
 
 ---
 
-Person 2: Marcus Liu
+### 🎓 Persona 2: Marcus Liu  
+- **Background**: 21-year-old junior at an East Coast university studying CS and Cognitive Science  
+- **Tech Access**: Uses a MacBook and GitHub regularly for coursework  
+- **Motivation**: Looking for OSS projects related to AI and social impact to align with his electives and potential senior thesis  
+- **Pain Points**: Finds it hard to tell if a repo is still active or worth contributing to; frustrated by vague READMEs  
 
-Background: 21-year-old junior at an East Coast university studying CS and Cognitive Science
-Tech Access: Uses a MacBook and GitHub regularly for coursework
-Motivation: Looking for OSS projects related to AI and social impact to align with his electives and potential senior thesis
-Pain Points: Finds it hard to tell if a repo is still active or worth contributing to; annoyed by vague READMEs
+---
 
-Persona 3: Elio Rune
+### 🎓 Persona 3: Elio Rune  
+- **Background**: 22-year-old transfer student in her final year of undergrad  
+- **Tech Access**: Comfortable with Git; uses laptop regularly  
+- **Motivation**: Wants to boost her resume before applying to jobs, especially with frontend projects related to Web Dev classes  
+- **Pain Points**: Struggles to identify projects with strong documentation or helpful mentors for new contributors  
 
-Background: 22-year-old transfer student in her final year of undergrad
-Tech Access: Comfortable with Git, uses laptop regularly
-Motivation: Wants to boost her resume before applying to jobs, looking for frontend projects tied to Web Dev classes
-Pain Points: Struggles to identify which OSS projects have good documentation or mentors willing to help new contributors.
+---
 
-Persona 4: Aisha Bennett
+### 🎓 Persona 4: Aisha Bennett  
+- **Background**: 20-year-old sophomore at an HBCU in Georgia  
+- **Tech Access**: Mainly uses phone for browsing and laptop for coursework  
+- **Motivation**: Exploring different tech domains; still deciding on a specialization  
+- **Pain Points**: Hasn’t contributed to OSS yet; feels many projects assume too much technical background  
 
-Background: 20-year-old sophomore at a HBCU in Georgia
-Tech Access: Mainly uses phone for browsing and laptop for coursework
-Motivation: Exploring various tech domains, still unsure about a specialization
-Pain Points: Hasn’t contributed to OSS yet, feels most projects assume too much background knowledge
+---
 
-Persona 5: Dr. Helena Reyes
+### 👩‍🏫 Persona 5: Dr. Helena Reyes  
+- **Role**: Faculty / Associate Professor of Computer Science  
+- **Background**: 45 years old; teaches Algorithms and Software Engineering at a public university in Texas  
+- **Tech Access**: Primarily uses desktop and university LMS; uses GitHub to collaborate with graduate students  
+- **Motivation**: Wants students to connect theory with real-world practice and build public portfolios  
+- **Pain Points**: Overwhelmed by the number of OSS repos; difficult to identify quality, course-relevant, active projects  
 
-Role: Faculty / Associate Professor of Computer Science
-Background: 45 years old, teaches upper-division courses like Algorithms and Software Engineering at a public university in Texas
-Tech Access: Primarily uses a desktop and university LMS; uses GitHub when collaborating with grad students
-Motivation: Wants her students to connect theory with practice and start building their public portfolios before graduation
-Pain Points: Struggles to find vetted OSS examples that align with class topics; overwhelmed by the sheer number of repositories on GitHub. Worries that students waste time on projects that are inactive or unstructured.
+---
 
-Persona 6: Jabril Washington
+### 👨🏽‍💻 Persona 6: Jabril Washington  
+- **Role**: Graduate Teaching Assistant for Intro to Web Development  
+- **Background**: 26-year-old CS master’s student at a large state university  
+- **Tech Access**: Experienced GitHub user; manages lab repos and grades assignments  
+- **Motivation**: Wants to guide students toward OSS contributions that build confidence and skills  
+- **Pain Points**: Frequently asked for OSS recommendations but lacks time to verify if projects are beginner-friendly or active
 
-Role: Graduate Teaching Assistant for Intro to Web Development
-Background: 26-year-old master’s student in CS at a large state university
-Tech Access: Heavy GitHub user, manages private repos for grading and labs
-Motivation: Wants to bridge the gap between classroom assignments and real-world OSS; helps freshmen gain practical exposure to teamwork and real-world tools
-Pain Points: Students often ask him where to find projects to work on, but he doesn’t have time to dig through GitHub to verify what’s beginner-friendly or well-documented
-
+  
 ## User Stories
 
 1. As a student contributor, I want to select my interests and skill level during onboarding, so that I receive OSS suggestions that align with what I want to learn and already know.
