@@ -13,12 +13,13 @@ University students pursuing Computer Science often want to contribute to open-s
 
 ## User Personas
 
-Persona 1: Maya Delgado
+### 🎓 Persona 1: Maya Delgado  
+- **Background**: 19-year-old first-year CS major at a public university in California  
+- **Tech Access**: Mostly uses her phone, occasionally a Chromebook  
+- **Motivation**: Wants to get involved in CS communities early and build her GitHub profile  
+- **Pain Points**: Gets overwhelmed by GitHub UI; unsure which projects are beginner-friendly or relevant to her Intro to CS course  
 
-Background: 19-year-old first-year CS major at a public university in California
-Tech Access: Mostly uses her phone, occasionally a Chromebook
-Motivation: Wants to get involved in CS communities early and build her GitHub profile
-Pain Points: Gets overwhelmed by GitHub UI, doesn’t know which projects are beginner-friendly or relevant to her Intro to CS course
+---
 
 Person 2: Marcus Liu
 
