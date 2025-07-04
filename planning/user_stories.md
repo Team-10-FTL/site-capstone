@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: ** Jaqueline Jurado, Taliyah Harvey, Nathan Kenmognie **
+Pod Members: **Jaqueline Jurado, Taliyah Harvey, Nathan Kenmognie**
 
 ## Problem Statement
 
