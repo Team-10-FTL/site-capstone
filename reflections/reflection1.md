@@ -26,4 +26,18 @@ Yes, as a team we agree that having the instructors and the SITE page push us to
 
 * Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
- Add response here
+The main feature currently at risk is the CRON job system responsible for pulling GitHub repo data and enriching it with Gemini-generated tags, summaries, and difficulty levels. While the core functionality is mostly complete, we’re running into ES module resolution errors that prevent it from executing smoothly on npm start. This impacts how confidently we can integrate and test it within the main backend flow, even though the job runs correctly when isolated.
+
+Another feature at risk is dynamic preference rendering and saved repos, which depend on authenticated user context. While we’ve implemented the backend logic, frontend rendering bugs have blocked us from verifying that preferences update and display properly. Until we resolve that, features like personalized repo suggestions and “save this repo” remain unconfirmed.
+
+To address these risks:
+
+    For the CRON job, we’re planning to decouple it from the main application lifecycle, triggering it via a separate CLI or script. This reduces runtime complexity and allows for easier testing.
+
+    We’ll also unit test the Gemini and GitHub integration modules in isolation using Jest, to ensure each step of enrichment behaves as expected.
+
+    On the frontend side, we’ll set up mock user states and seed data to isolate whether rendering bugs are coming from the backend response or the frontend logic itself.
+
+    If these issues persist, we’ll prioritize completing high-impact visual components like saved repos and user dashboards, while pushing stretch goals like "Explain this Repo" or more advanced AI features to the next sprint.
+
+Overall, we’re still in a strong position — the repo data pipeline works in principle, and authentication is mostly solid. The next steps are mostly about stabilizing integration points and ironing out rendering flows so we can confidently demo end-to-end functionality.
