@@ -26,8 +26,7 @@ The only major pivot we had was regarding the **UI** and the **recommendation al
 
 ---
 
-### 4. Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week?  
-Be specific — what resources did you find particularly helpful, or which tasks did you need more support on?
+### 4. Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific — what resources did you find particularly helpful, or which tasks did you need more support on?
 
 The instructors and code snippets for connecting **frontend to backend** were consistently very helpful! Even though our application veered from the applications taught during the first couple of weeks, we were able to build upon what we learned.
 
@@ -41,8 +40,7 @@ were all extremely intuitive and helpful.
 
 ---
 
-### 5. Which features and user stories would you consider “at risk”?  
-How will you change your plan if those items remain “at risk”?
+### 5. Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
 The deployed version of the site still doesn’t allow certain logins using **Clerk**, preventing users from progressing through the application. Before next week's **Bug Bash** event across the class, we will prioritize fixing this issue.
 
