@@ -18,9 +18,7 @@ Another challenge was the recommendation algorithm itself — we had planned to 
 
 ---
 
-### 3. Did you finish all of your tasks in your sprint plan for this week?  
-If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?  
-*(i.e., over-planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)*
+### 3. Did you finish all of your tasks in your sprint plan for this week?  If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?  (i.e., over-planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)*
 
 We did finish all our tasks planned for this sprint, concluding our **MVP**. If anything, we had certain UI tweaks we could've gotten to, but that was outside the core logic we wanted to complete for MVP. For the remaining tasks, we have labeled those as part of the upcoming **Stretch Feature Week**.
 
