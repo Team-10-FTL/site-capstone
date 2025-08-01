@@ -5,6 +5,7 @@ Pod Members: **Jaqueline Jurado, Nathan Kenmognie, Taliyah Harvey**
 ## Reflection Questions
 
 * What is one thing you accomplished this week?
+  
   We were able to incorporate (GitHub) Model Context Protocol into a front facing chatbot! We were also able to incorporate search functionality, tweak UI, and deploy successfully.
 
 * What were some challenges you and/or your group faced this week?
